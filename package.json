@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.7",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}
